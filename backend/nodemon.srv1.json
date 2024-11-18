@@ -1,0 +1,9 @@
+{
+    "watch": [
+        "src/serviceOne",
+        "src/config",
+        "shared"
+    ],
+    "ext": "js",
+    "exec": "node --import=extensionless/register src/serviceOne/index.js"
+}
