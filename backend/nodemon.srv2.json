@@ -1,9 +1,0 @@
-{
-    "watch": [
-        "src/serviceTwo",
-        "src/config",
-        "shared"
-    ],
-    "ext": "js",
-    "exec": "node --import=extensionless/register src/serviceTwo/index.js"
-}
